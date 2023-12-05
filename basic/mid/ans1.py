@@ -24,3 +24,4 @@ for k in data:
 
 o = (sum1/(custom_len(data)-1))**(1/2)
 print(o)
+
